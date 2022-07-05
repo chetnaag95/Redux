@@ -1,0 +1,2 @@
+# Redux
+Redux is a JS library used with React or Angular for building user interface. Redux is used to manage and centralise application state. This repository represents fundamental working of Redux. It also contain a small application of ice cream parlour which handles the product we have to stock(variety of ice creams), capturing customer order, displaying order status and displaying employee info.
